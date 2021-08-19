@@ -10,9 +10,13 @@ using System;
 public class FetchData : MonoBehaviour
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     // jamjam
 >>>>>>> parent of 06156ed (test1)
+=======
+    // jamjam22
+>>>>>>> parent of 97bd889 (Update FetchData.cs)
     public TMP_Text row_name;
     public TMP_Text row_desc;
     public static HttpClient client;
