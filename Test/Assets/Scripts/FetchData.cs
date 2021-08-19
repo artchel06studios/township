@@ -11,6 +11,7 @@ public class FetchData : MonoBehaviour
 {
 <<<<<<< HEAD
 =======
+    // jamjam
 >>>>>>> parent of 06156ed (test1)
     public TMP_Text row_name;
     public TMP_Text row_desc;
