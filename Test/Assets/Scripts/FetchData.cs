@@ -9,7 +9,7 @@ using System;
 
 public class FetchData : MonoBehaviour
 {
-    // jamjam22
+    // jamjam223
     public TMP_Text row_name;
     public TMP_Text row_desc;
     public static HttpClient client;
