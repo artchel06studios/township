@@ -9,6 +9,9 @@ using System;
 
 public class FetchData : MonoBehaviour
 {
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 06156ed (test1)
     public TMP_Text row_name;
     public TMP_Text row_desc;
     public static HttpClient client;
